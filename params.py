@@ -1,4 +1,11 @@
-cookies = {
+cookies = {cookies = {
+}
+
+headers = {
+}
+
+params = {
+}
 }
 
 headers = {
